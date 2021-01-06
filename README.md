@@ -2,7 +2,7 @@
 
 > 크기는 128 KB 미만이어야 함
 
-| preview                                                          | name                        |
+| <div style="width:60px;">preview</div>                           | name                        |
 | ---------------------------------------------------------------- | --------------------------- |
 | ![pyeonan](/src/pyeonan.jpg)                                     | `pyeonan`                   |
 | ![salute](/src/salute.png)                                       | `salute`                    |
