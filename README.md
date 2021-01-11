@@ -7,6 +7,7 @@
 | <img src="/src/pyeonan.jpg" width="64px">                   | `pyeonan`                   |
 | <img src="/src/salute.png" width="64px">                    | `salute`                    |
 | <img src="/src/goodgun.png" width="64px">                   | `goodgun`                   |
+| <img src="/src/naruto.png" width="64px">                    | `naruto`                    |
 | <img src="/src/goodbye.png" width="64px">                   | `goodbye`                   |
 | <img src="/src/fcs.gif" width="64px">                       | `fcs`                       |
 | <img src="/src/mario_dance.gif" width="64px">               | `mario_dance`               |
