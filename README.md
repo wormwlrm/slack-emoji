@@ -17,6 +17,9 @@
 | <img src="/src/naruto.png" width="64px">                    | `naruto`                    | 가슴이 웅장해질 때               |
 | <img src="/src/goodbye.png" width="64px">                   | `goodbye`                   | 누군가 떠날 때                   |
 | <img src="/src/gookbab.png" width="64px">                   | `gookbab`                   | 든든함을 표시하고 싶을 때        |
+| <img src="/src/chogosu.png" width="64px">                   | `chogosu`                   | 굇수를 칭찬하고 싶을 때          |
+| <img src="/src/easy.png" width="64px">                      | `easy`                      | 아주 쉬울 때                     |
+| <img src="/src/urgent.png" width="64px">                    | `urgent`                    | 긴급할 때                        |
 | <img src="/src/fcs.gif" width="64px">                       | `fcs`                       | 펀하고 쿨하고 섹시하게 대답할 때 |
 | <img src="/src/mario_dance.gif" width="64px">               | `mario_dance`               | 신날 때                          |
 | <img src="/src/sangsangdo_mothan_jungche.gif" width="64px"> | `sangsangdo_mothan_jungche` | 상상도 못한 등장에 놀랄 때       |
